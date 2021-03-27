@@ -1,0 +1,7 @@
+*.idea
+*.project
+*.settings/
+*.iml
+target/
+avro-kafkaconnect-converter/dependency-reduced-pom.xml
+
